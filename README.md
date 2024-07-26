@@ -1,3 +1,6 @@
+![sqliteepython](https://github.com/user-attachments/assets/a8a237a3-326e-481f-9086-bcbe7bcbb4de)
+
+
 # Integração de CSV com SQLite usando Python
 
 Este projeto demonstra como integrar dados de arquivos CSV com um banco de dados SQLite utilizando Python. O objetivo é criar um banco de dados, importar dados de um arquivo CSV para uma tabela, realizar operações CRUD (Create, Read, Update, Delete) e exportar os dados de volta para um novo arquivo CSV.
